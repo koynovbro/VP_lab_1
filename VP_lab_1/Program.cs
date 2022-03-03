@@ -40,6 +40,6 @@ public class HW1
             }
         }
         Console.WriteLine($"Суммарное время: {sum}");
-        return 0;
+        return sum;
     }
 }
